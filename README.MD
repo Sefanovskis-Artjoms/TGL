@@ -1,4 +1,4 @@
-# Simple internet store
+# The glow light - car detailing company web page
 
 This project was my diploma work for Riga State Technical School. Main idea of this project was to create some product that would include database and processing of it's data. So the choice of internet store was the most obcious to me and seemed simplest from available options at the time.
 
