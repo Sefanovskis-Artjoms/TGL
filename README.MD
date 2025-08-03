@@ -16,3 +16,9 @@ Payments in the store are not processed, in its place when user places order, he
 For the Admin, he can see the record of the reservations and filter them by their state, which he can change. As with the record of the services, users and comments(admin has to approve the comment before it can be displayed on the website). Also on top of that in the admins section exist main panel containing important KPI's and graphs with some usefull information.
 
 After the completion of the service of during it, admin can also create and edit the report of that service for user to check what exactly has been done or what the technicians wanted to add about the job
+![screenshot from a website](https://github.com/Sefanovskis-Artjoms/TGL/blob/main/readme-imgs/1.png)
+![screenshot from a website](https://github.com/Sefanovskis-Artjoms/TGL/blob/main/readme-imgs/2.png)
+![screenshot from a website](https://github.com/Sefanovskis-Artjoms/TGL/blob/main/readme-imgs/3.png)
+![screenshot from a website](https://github.com/Sefanovskis-Artjoms/TGL/blob/main/readme-imgs/4.png)
+![screenshot from a website](https://github.com/Sefanovskis-Artjoms/TGL/blob/main/readme-imgs/5.png)
+![screenshot from a website](https://github.com/Sefanovskis-Artjoms/TGL/blob/main/readme-imgs/6.png)
